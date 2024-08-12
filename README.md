@@ -1,7 +1,9 @@
 # Speech_Emotion_Recognition_Project
 
 Speech Emotion Recognition Project
+
 BDM-3035 Big Data Capstone Project
+
 Professor: Meysam Effati
 
 Group G: 
